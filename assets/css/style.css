@@ -51695,7 +51695,7 @@ background: #00b08d;
 }
 
 .testimonial-section {
-  background: url(../images/testimonial-section-bg.png) #FFE9D2 no-repeat;
+  background: url(../images/testimonial-section-bg.webp) #FFE9D2 no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -51793,7 +51793,7 @@ background: #00b08d;
 }
 
 .newsletter-card {
-  background: url(../images/newsletter.png);
+  background: url(../images/newsletter.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
